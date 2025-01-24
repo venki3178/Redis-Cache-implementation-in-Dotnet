@@ -1,0 +1,6 @@
+@Web_Api_with_Redish_HostAddress = http://localhost:5219
+
+GET {{Web_Api_with_Redish_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
